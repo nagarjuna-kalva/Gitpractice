@@ -1,2 +1,15 @@
 My First Git project 
    Learning Githug
+
+   Git Commands Learned :
+   git init 
+   git add .
+   git commit -m "message"
+   git push
+
+   Today I learned:
+   -Creating repository
+   Adding files
+   commiting changes
+   pushing to github
+   
