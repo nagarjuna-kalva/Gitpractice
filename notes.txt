@@ -1,2 +1,2 @@
 My First Git project 
-   Learning Githu
+   Learning Githug
