@@ -1,5 +1,5 @@
 My First Git project 
-   Learning Githug
+   Learning Github
 
    Git Commands Learned :
    git init 
@@ -12,4 +12,3 @@ My First Git project
    Adding files
    commiting changes
    pushing to github
-   
